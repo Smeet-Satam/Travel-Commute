@@ -1,0 +1,6 @@
+{
+  "name": "Smart Student Commute Companion",
+  "description": "Intelligent transit routing for college students in Mumbai with real-time disruption simulation, multi-modal itineraries, and student incident reporting.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
